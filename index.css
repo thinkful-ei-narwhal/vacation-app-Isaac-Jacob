@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.hidden {
+	display: none;
+}
+
+li {
+	margin: 0 auto 1rem;
+}
+
+.first-li {
+	margin-top: 2rem;
+	font-size: 1.8rem;
+	font-weight: 700;
+	color: blue;
+}
